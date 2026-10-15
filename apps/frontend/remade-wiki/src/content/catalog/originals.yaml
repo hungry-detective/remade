@@ -1154,6 +1154,31 @@
   url: https://www.sage.com/en-gb/sage-business-cloud/sage-accounting/
   category: productivity
 
+- slug: fl-studio-mobile
+  name: FL Studio Mobile
+  url: https://www.image-line.com/fl-studio-mobile
+  category: creative
+
+- slug: everything
+  name: Everything
+  url: https://www.voidtools.com/
+  category: productivity
+
+- slug: dragonframe
+  name: Dragonframe
+  url: https://www.dragonframe.com/
+  category: creative
+
+- slug: canva
+  name: Canva
+  url: https://www.canva.com/
+  category: creative
+
+- slug: elevenlabs
+  name: ElevenLabs
+  url: https://elevenlabs.io/
+  category: creative
+
 - slug: internet-download-manager
   name: Internet Download Manager
   url: https://www.internetdownloadmanager.com/
